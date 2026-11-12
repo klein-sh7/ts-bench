@@ -2,3 +2,4 @@
 vim.opt.number = true
 vim.opt.relativenumber = true
 vim.g.loaded_profile_1 = "cc3bb0ce" -- 2026-11-10
+vim.g.loaded_profile_2 = "7cd5cfd8" -- 2026-11-12
